@@ -14,5 +14,10 @@ python main.py
 
 Um das Skript auszuführen, benötigen Sie Python 3.7 oder höher. Es ist auch empfehlenswert, eine aktuelle Version von Turtle zu installieren, indem Sie den folgenden Befehl ausführen:
 
+```python
 pip install pythonturtle
+```
 
+## Lizenz
+
+Dieses Skript ist lizenziert unter der [MIT Lizenz](LICENSE).
