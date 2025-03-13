@@ -8,7 +8,7 @@ Das Skript zeichnet eine Vielzahl von Grafiken, darunter ein Sternenmuster, eine
 
 Um das Skript auszuführen, müssen Sie Python auf Ihrem Computer installiert haben. Sie können das Skript durch Ausführen des folgenden Befehls in Ihrem Terminal ausführen:
 
-```python
+```bash
 python main.py
 ```
 
@@ -16,7 +16,7 @@ python main.py
 
 Um das Skript auszuführen, benötigen Sie Python 3.7 oder höher. Es ist auch empfehlenswert, eine aktuelle Version von Turtle zu installieren, indem Sie den folgenden Befehl ausführen:
 
-```python
+```bash
 pip install pythonturtle
 ```
 
