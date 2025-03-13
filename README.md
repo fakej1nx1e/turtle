@@ -2,13 +2,15 @@
 
 Dieses Repository enthält ein einfaches Python-Skript, das die Turtle-Grafikbibliothek verwendet, um ein grafisches Konzeptprogramm zu erstellen.
 
-Das Skript zeichnet eine Vielzahl von Grafiken, darunter ein Sternenmuster, eine Blume, ein Regenbogen-Hexagon, ein Haus, ein bunte Quadrate, eine wachsende Spirale, Kreise mit Parametern, zufällige Punkte, ein If-else-Muster und einen Random Walk.
+Das Skript zeichnet eine Vielzahl von Grafiken, darunter ein Sternenmuster, eine Blume, ein Regenbogen-Hexagon, ein Muster, bunte Quadrate, eine wachsende Spirale, Kreise mit Parametern, zufällige Punkte, ein If-else-Muster und einen Random Walk.
 
 ## Verwendung
 
 Um das Skript auszuführen, müssen Sie Python auf Ihrem Computer installiert haben. Sie können das Skript durch Ausführen des folgenden Befehls in Ihrem Terminal ausführen:
 
+```python
 python main.py
+```
 
 ## Anforderungen
 
